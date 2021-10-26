@@ -78,4 +78,3 @@ timeline.fromTo(
     seekButton.addEventListener('click', () => timeline.seek(2));
     progressButton.addEventListener('click', () => timeline.progress(0.5));
     restartButton.addEventListener('click', () => timeline.restart());
-    
