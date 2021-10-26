@@ -24,7 +24,7 @@ function init(){
     ease: 'none',
     scrollTrigger: {
       trigger: '.bcg-parallax',
-      start: 'top bottom',
+      start: 'top bottom-=20%',
       scrub: true,
       markers: true,
     }
